@@ -1,121 +1,125 @@
 ,rounds,team_one,team_two,team_one_score,team_two_score,referee,venue,team_one_penalties,team_two_penalties,team_one_reds,team_two_reds,team_one_yellows,team_two_yellows
-0,Round 17,Highlanders,Bulls, , ,None,None,None,None,None,None,None,None
-1,Round 9,Crusaders,Highlanders,43,17,Ben O'keeffe,Christchurch Stadium,18,6,0,0,1,0
-2,Round 12,Crusaders,Sharks,21,21,Brendon Pickerill,Christchurch Stadium,13,10,0,0,0,0
-3,Round 6,Hurricanes,Stormers,34,28,Glen Jackson,Westpac Stadium,11,7,0,0,1,1
-4,Round 2,Jaguares,Bulls,27,12,Brendon Pickerill,Estadio Jose Amalfitani,12,10,0,0,0,0
-5,Round 11,Crusaders,Lions,36,10,Paul Williams,Christchurch Stadium,10,11,0,0,0,0
-6,Round 15,Stormers,Highlanders,34,22,Nic Berry,DHL Newlands,7,7,0,0,0,1
-7,Round 17,Jaguares,Sharks, , ,None,None,None,None,None,None,None,None
-8,Round 12,Bulls,NSW Waratahs,28,21,Jaco Peyper,Loftus Versfeld,6,11,0,0,0,0
-9,Round 13,Rebels,Reds,30,24,Angus Gardner,AAMI Park,10,14,0,0,0,2
-10,Round 1 ,Jaguares,Lions,16,25,Michael Fraser,Estadio Jose Amalfitani,14,10,0,0,0,0
-11,Round 1 ,Sunwolves,Sharks,10,45,Nic Berry,Singapore National Stadium,16,7,0,0,1,0
-12,Round 3,Lions,Bulls,12,30,Paul Williams,Emirates Airlines Park,11,10,0,0,0,0
-13,Round 10,Highlanders,Blues,24,12,Paul Williams,Forsyth Barr Stadium,7,8,0,0,0,0
-14,Round 3,Sharks,Stormers,11,16,Jaco Peyper,Jonsson Kings Park,12,7,0,0,2,1
-15,Round 9,Brumbies,Lions,31,20,Rasta Rasivhenge,GIO Stadium,12,7,0,0,1,0
-16,Round 8,Highlanders,Hurricanes,28,31,Glen Jackson,Forsyth Barr Stadium,6,11,0,0,0,1
-17,Round 16,Lions,Stormers,41,22,Marius van der westhuizen,Emirates Airlines Park,10,10,0,0,0,0
-18,Round 9,Bulls,Reds,32,17,Glen Jackson,Loftus Versfeld,12,10,0,0,0,0
-19,Round 15,Brumbies,Bulls,22,10,Jaco Peyper,GIO Stadium,11,10,0,0,1,0
-20,Round 15,Chiefs,Reds,19,13,Angus Gardner,FMG Stadium Waikato,13,3,0,0,0,0
-21,Round 17,Stormers,Sunwolves, , ,None,None,None,None,None,None,None,None
-22,Round 9,Rebels,Stormers,24,41,Michael Fraser,AAMI Park,7,8,0,0,0,0
-23,Round 1 ,Bulls,Stormers,40,3,Jaco Peyper,Loftus Versfeld,12,8,0,0,0,0
-24,Round 3,Reds,Crusaders,12,22,Marius van der westhuizen,Suncorp Stadium,9,7,0,0,1,0
-25,Round 7,Reds,Rebels,13,32,AJ Jacobs,Suncorp Stadium,8,8,0,0,0,0
-26,Round 15,Sunwolves,Rebels,7,52,Nick Briant,Prince Chichibu Memorial Stadium,14,10,0,0,0,1
-27,Round 7,Blues,Stormers,24,9,Nick Briant,Eden Park,12,7,1,0,0,0
-28,Round 18,Brumbies,Reds, , ,None,None,None,None,None,None,None,None
-29,Round 7,Sharks,Bulls,16,19,Michael Fraser,Jonsson Kings Park,8,11,1,1,0,0
-30,Round 18,Highlanders,NSW Waratahs, , ,None,None,None,None,None,None,None,None
-31,Round 14,Lions,Highlanders,38,29,Rasta Rasivhenge,Emirates Airlines Park,3,12,0,0,0,0
-32,Round 4,Blues,Sunwolves,28,20,Michael Fraser,QBE Stadium,3,15,0,0,0,2
-33,Round 14,Reds,NSW Waratahs,32,40,Ben O'keeffe,Suncorp Stadium,7,3,0,0,0,0
-34,Round 11,Hurricanes,Chiefs,47,19,Rasta Rasivhenge,Westpac Stadium,6,4,0,0,0,0
-35,Round 2,Crusaders,Hurricanes,38,22,Ben O'keeffe,Christchurch Stadium,13,13,0,0,1,0
-36,Round 10,Sharks,Reds,14,21,Federico Anselmi,Jonsson Kings Park,7,8,0,0,0,0
-37,Round 4,Hurricanes,Highlanders,25,22,Damon Murphy,Westpac Stadium,9,12,0,0,0,0
-38,Round 12,Jaguares,Stormers,30,25,AJ Jacobs,Estadio Jose Amalfitani,14,8,0,0,1,1
-39,Round 11,NSW Waratahs,Sharks,15,23,Nic Berry,Bankwest Stadium,8,9,1,0,1,1
-40,Round 13,Lions,NSW Waratahs,29,28,Egon Seconds,Emirates Airlines Park,2,11,0,0,0,0
-41,Round 18,Stormers,Sharks, , ,None,None,None,None,None,None,None,None
-42,Round 14,Hurricanes,Jaguares,20,28,Brendon Pickerill,Westpac Stadium,7,13,0,0,1,0
-43,Round 8,Blues,NSW Waratahs,32,29,Federico Anselmi,Eden Park,7,7,0,0,0,0
-44,Round 7,Hurricanes,Crusaders,8,32,Ben O'keeffe,Westpac Stadium,8,14,0,0,0,1
-45,Round 10,Stormers,Brumbies,17,19,Nick Briant,DHL Newlands,8,12,0,0,0,1
-46,Round 18,Hurricanes,Blues, , ,None,None,None,None,None,None,None,None
-47,Round 5,Sunwolves,Reds,31,34,Damon Murphy,Prince Chichibu Memorial Stadium,11,4,0,0,0,0
-48,Round 13,Chiefs,Sharks,29,23,Nic Berry,FMG Stadium Waikato,8,6,0,0,1,0
-49,Round 6,NSW Waratahs,Crusaders,20,12,Jaco Peyper,Sydney Cricket Ground,3,6,0,0,0,0
-50,Round 5,Highlanders,Crusaders,0,0,Brendon Pickerill,Forsyth Barr Stadium,0,0,0,0,0,0
-51,Round 5,Brumbies,NSW Waratahs,19,13,Glen Jackson,GIO Stadium,9,10,0,0,0,2
-52,Round 6,Reds,Brumbies,36,14,Paul Williams,Suncorp Stadium,10,7,0,0,0,0
-53,Round 7,NSW Waratahs,Sunwolves,29,31,Paul Williams,McDonald Jones Stadium,5,6,0,0,0,0
-54,Round 5,Stormers,Jaguares,35,8,Jaco Peyper,DHL Newlands,6,9,0,0,0,0
-55,Round 5,Chiefs,Hurricanes,23,23,Michael Fraser,FMG Stadium Waikato,7,6,0,0,0,0
-56,Round 8,Rebels,Sunwolves,42,15,Nic Berry,AAMI Park,16,6,0,0,2,1
-57,Round 7,Jaguares,Chiefs,27,30,Angus Gardner,Estadio Jose Amalfitani,9,10,0,0,1,0
-58,Round 17,Reds,Blues, , ,None,None,None,None,None,None,None,None
-59,Round 15,NSW Waratahs,Jaguares,15,23,Paul Williams,Bankwest Stadium,6,7,0,0,0,1
-60,Round 3,Chiefs,Sunwolves,15,30,Federico Anselmi,FMG Stadium Waikato,4,14,0,0,0,0
-61,Round 16,Reds,Jaguares,23,34,Jaco Peyper,Suncorp Stadium,8,9,0,0,0,0
-62,Round 9,Chiefs,Blues,33,29,Angus Gardner,FMG Stadium Waikato,8,7,0,0,0,0
-63,Round 14,Stormers,Crusaders,19,19,Nic Berry,DHL Newlands,8,13,0,0,0,0
-64,Round 18,Rebels,Chiefs, , ,None,None,None,None,None,None,None,None
-65,Round 12,Highlanders,Chiefs,31,31,Michael Fraser,Forsyth Barr Stadium,4,8,0,0,0,0
-66,Round 16,Rebels,NSW Waratahs,15,20,Paul Williams,AAMI Park,7,7,0,0,0,0
-67,Round 13,Blues,Hurricanes,12,22,Nick Briant,Eden Park,10,16,0,0,0,1
-68,Round 15,Sharks,Lions,27,17,Marius van der westhuizen,Jonsson Kings Park,8,8,0,0,0,0
-69,Round 1 ,Blues,Crusaders,22,24,Nick Briant,Eden Park,11,13,0,0,1,1
-70,Round 6,Bulls,Chiefs,20,56,AJ Jacobs,Loftus Versfeld,9,4,0,0,0,1
-71,Round 13,Bulls,Crusaders,13,45,Rasta Rasivhenge,Loftus Versfeld,4,12,0,0,0,0
-72,Round 2,Sunwolves,NSW Waratahs,30,31,AJ Jacobs,Prince Chichibu Memorial Stadium,9,8,0,0,1,0
-73,Round 16,Blues,Bulls,22,22,Michael Fraser,Eden Park,6,9,0,0,0,0
-74,Round 2,Stormers,Lions,19,17,Egon Seconds,DHL Newlands,13,15,0,0,1,1
-75,Round 4,NSW Waratahs,Reds,28,17,Glen Jackson,Sydney Cricket Ground,14,10,0,0,0,1
-76,Round 16,Chiefs,Crusaders,40,27,Ben O'keeffe,"ANZ National Stadium, Suva",6,3,0,0,0,0
-77,Round 1 ,Chiefs,Highlanders,27,30,Glen Jackson,FMG Stadium Waikato,10,7,0,1,0,0
-78,Round 6,Sharks,Rebels,28,14,Rasta Rasivhenge,Jonsson Kings Park,7,11,0,0,1,0
-79,Round 12,Hurricanes,Rebels,29,19,Nic Berry,Westpac Stadium,12,3,0,0,0,0
-80,Round 4,Bulls,Sharks,37,14,Marius van der westhuizen,Loftus Versfeld,6,7,0,0,0,0
-81,Round 14,Blues,Chiefs,23,8,Glen Jackson,Eden Park,5,9,0,0,0,0
-82,Round 4,Crusaders,Chiefs,57,28,Brendon Pickerill,Christchurch Stadium,11,5,0,0,0,0
-83,Round 11,Stormers,Bulls,24,23,Glen Jackson,DHL Newlands,9,5,0,0,0,0
-84,Round 14,Rebels,Bulls,17,32,Federico Anselmi,AAMI Park,7,11,0,0,0,0
-85,Round 9,Sharks,Jaguares,17,51,Nick Briant,Jonsson Kings Park,11,5,0,0,0,0
-86,Round 2,Highlanders,Reds,36,31,Federico Anselmi,Forsyth Barr Stadium,6,8,0,0,0,0
-87,Round 2,Sharks,Blues,26,7,Paul Williams,Jonsson Kings Park,11,9,0,0,1,0
-88,Round 8,Crusaders,Brumbies,36,14,Jaco Peyper,Christchurch Stadium,9,9,0,0,1,2
-89,Round 6,Sunwolves,Lions,24,37,Damon Murphy,Singapore National Stadium,12,6,0,0,0,1
-90,Round 3,Jaguares,Blues,23,19,Rasta Rasivhenge,Estadio Jose Amalfitani,10,7,0,0,1,0
-91,Round 15,Crusaders,Blues,19,11,Michael Fraser,Christchurch Stadium,8,12,0,0,0,0
-92,Round 5,Lions,Rebels,36,33,Egon Seconds,Emirates Airlines Park,1,20,0,0,0,2
-93,Round 10,Chiefs,Lions,17,23,Brendon Pickerill,FMG Stadium Waikato,8,6,0,0,0,0
-94,Round 4,Rebels,Brumbies,29,26,AJ Jacobs,AAMI Park,12,12,0,0,2,0
-95,Round 8,Reds,Stormers,24,12,Marius van der westhuizen,Suncorp Stadium,8,11,0,0,0,1
-96,Round 3,Hurricanes,Brumbies,43,13,Nick Briant,Central Energy Trust Arena,13,6,0,0,0,1
-97,Round 4,Lions,Jaguares,47,39,Rasta Rasivhenge,Emirates Airlines Park,9,9,0,0,0,0
-98,Round 8,Bulls,Jaguares,20,22,Brendon Pickerill,Loftus Versfeld,9,15,0,0,2,1
-99,Round 12,Reds,Sunwolves,32,26,Angus Gardner,Suncorp Stadium,11,17,1,1,0,4
-100,Round 6,Blues,Highlanders,33,26,Marius van der westhuizen,Eden Park,10,7,0,0,0,1
-101,Round 10,Sunwolves,Hurricanes,23,29,Angus Gardner,Prince Chichibu Memorial Stadium,11,11,0,0,0,0
-102,Round 2,Brumbies,Chiefs,54,17,Angus Gardner,GIO Stadium,10,8,0,0,0,0
-103,Round 12,Brumbies,Blues,26,21,Damon Murphy,GIO Stadium,9,15,0,0,0,2
-104,Round 18,Jaguares,Sunwolves, , ,None,None,None,None,None,None,None,None
-105,Round 1 ,Brumbies,Rebels,27,34,Ben O'keeffe,GIO Stadium,6,11,0,0,0,0
-106,Round 17,Crusaders,Rebels, , ,None,None,None,None,None,None,None,None
-107,Round 17,NSW Waratahs,Brumbies, , ,None,None,None,None,None,None,None,None
-108,Round 16,Sharks,Hurricanes,17,30,Nic Berry,Jonsson Kings Park,9,8,0,1,0,0
-109,Round 13,Brumbies,Sunwolves,33,0,Damon Murphy,GIO Stadium,8,10,0,0,0,0
-110,Round 18,Bulls,Lions, , ,None,None,None,None,None,None,None,None
-111,Round 8,Lions,Sharks,5,42,Michael Fraser,Emirates Airlines Park,11,5,0,0,1,0
-112,Round 13,Highlanders,Jaguares,32,27,Ben O'keeffe,Forsyth Barr Stadium,7,11,0,0,0,0
-113,Round 11,Sunwolves,Highlanders,0,52,Ben O'keeffe,Prince Chichibu Memorial Stadium,10,9,0,0,0,0
-114,Round 17,Lions,Hurricanes, , ,None,None,None,None,None,None,None,None
-115,Round 10,NSW Waratahs,Rebels,23,20,Damon Murphy,Sydney Cricket Ground,8,12,0,0,0,1
-116,Round 11,Jaguares,Brumbies,20,15,Marius van der westhuizen,Estadio Jose Amalfitani,12,6,0,0,1,0
-117,Round 1 ,NSW Waratahs,Hurricanes,19,20,Angus Gardner,Brookvale Oval,14,12,0,0,0,0
-118,Round 16,Sunwolves,Brumbies,19,42,Federico Anselmi,Prince Chichibu Memorial Stadium,12,9,0,0,0,0
+0,Round 15,Sunwolves,Rebels,7,52,Nick Briant,Prince Chichibu Memorial Stadium,14,10,0,0,0,1
+1,Round 15,Sharks,Lions,27,17,Marius van der westhuizen,Jonsson Kings Park,8,8,0,0,0,0
+2,Round 12,Hurricanes,Rebels,29,19,Nic Berry,Westpac Stadium,12,3,0,0,0,0
+3,Round 11,Crusaders,Lions,36,10,Paul Williams,Christchurch Stadium,10,11,0,0,0,0
+4,Round 18,Jaguares,Sunwolves,52,10,Federico Anselmi,Estadio Jose Amalfitani,7,12,0,0,0,1
+5,Round 18,Highlanders,NSW Waratahs,49,12,Michael Fraser,Rugby Park,4,7,0,0,0,1
+6,Round 16,Rebels,NSW Waratahs,15,20,Paul Williams,AAMI Park,7,7,0,0,0,0
+7,Round 4,Hurricanes,Highlanders,25,22,Damon Murphy,Westpac Stadium,9,12,0,0,0,0
+8,Round 4,Crusaders,Chiefs,57,28,Brendon Pickerill,Christchurch Stadium,11,5,0,0,0,0
+9,Round 11,Sunwolves,Highlanders,0,52,Ben O'keeffe,Prince Chichibu Memorial Stadium,10,9,0,0,0,0
+10,Round 17,NSW Waratahs,Brumbies,24,35,Ben O'keeffe,Bankwest Stadium,9,8,0,0,0,0
+11,Round 12,Highlanders,Chiefs,31,31,Michael Fraser,Forsyth Barr Stadium,4,8,0,0,0,0
+12,Round 14,Blues,Chiefs,23,8,Glen Jackson,Eden Park,5,9,0,0,0,0
+13,Round 5,Highlanders,Crusaders,0,0,Brendon Pickerill,Forsyth Barr Stadium,0,0,0,0,0,0
+14,Round 3,Hurricanes,Brumbies,43,13,Nick Briant,Central Energy Trust Arena,13,6,0,0,0,1
+15,Round 10,Sunwolves,Hurricanes,23,29,Angus Gardner,Prince Chichibu Memorial Stadium,11,11,0,0,0,0
+16,Round 15,Chiefs,Reds,19,13,Angus Gardner,FMG Stadium Waikato,13,3,0,0,0,0
+17,Round 16,Reds,Jaguares,23,34,Jaco Peyper,Suncorp Stadium,8,9,0,0,0,0
+18,Round 4,Rebels,Brumbies,29,26,AJ Jacobs,AAMI Park,12,12,0,0,2,0
+19,Round 9,Rebels,Stormers,24,41,Michael Fraser,AAMI Park,7,8,0,0,0,0
+20,Round 17,Highlanders,Bulls,24,24,Angus Gardner,Forsyth Barr Stadium,5,5,0,0,0,0
+21,Round 11,NSW Waratahs,Sharks,15,23,Nic Berry,Bankwest Stadium,8,9,1,0,1,1
+22,Round 4,Bulls,Sharks,37,14,Marius van der westhuizen,Loftus Versfeld,6,7,0,0,0,0
+23,Round 7,Sharks,Bulls,16,19,Michael Fraser,Jonsson Kings Park,8,11,1,1,0,0
+24,Round 15,NSW Waratahs,Jaguares,15,23,Paul Williams,Bankwest Stadium,6,7,0,0,0,1
+25,Round 7,NSW Waratahs,Sunwolves,29,31,Paul Williams,McDonald Jones Stadium,5,6,0,0,0,0
+26,Round 1 ,Jaguares,Lions,16,25,Michael Fraser,Estadio Jose Amalfitani,14,10,0,0,0,0
+27,Round 18,Hurricanes,Blues,29,24,Glen Jackson,Westpac Stadium,5,12,0,0,0,0
+28,Round 1 ,Chiefs,Highlanders,27,30,Glen Jackson,FMG Stadium Waikato,10,7,0,1,0,0
+29,Round 5,Lions,Rebels,36,33,Egon Seconds,Emirates Airlines Park,1,20,0,0,0,2
+30,Round 3,Chiefs,Sunwolves,15,30,Federico Anselmi,FMG Stadium Waikato,4,14,0,0,0,0
+31,Round 3,Lions,Bulls,12,30,Paul Williams,Emirates Airlines Park,11,10,0,0,0,0
+32,Round 16,Lions,Stormers,41,22,Marius van der westhuizen,Emirates Airlines Park,10,10,0,0,0,0
+33,Round 17,Lions,Hurricanes,17,37,Jaco Peyper,Emirates Airlines Park,7,9,0,0,0,0
+34,Round 9,Bulls,Reds,32,17,Glen Jackson,Loftus Versfeld,12,10,0,0,0,0
+35,Round 4,Lions,Jaguares,47,39,Rasta Rasivhenge,Emirates Airlines Park,9,9,0,0,0,0
+36,Round 18,Rebels,Chiefs,8,59,Angus Gardner,AAMI Park,7,8,0,0,0,0
+37,Round 13,Rebels,Reds,30,24,Angus Gardner,AAMI Park,10,14,0,0,0,2
+38,Round 12,Brumbies,Blues,26,21,Damon Murphy,GIO Stadium,9,15,0,0,0,2
+39,Round 1 ,NSW Waratahs,Hurricanes,19,20,Angus Gardner,Brookvale Oval,14,12,0,0,0,0
+40,Round 12,Reds,Sunwolves,32,26,Angus Gardner,Suncorp Stadium,11,17,1,1,0,4
+41,Round 15,Brumbies,Bulls,22,10,Jaco Peyper,GIO Stadium,11,10,0,0,1,0
+42,Round 8,Rebels,Sunwolves,42,15,Nic Berry,AAMI Park,16,6,0,0,2,1
+43,Round 2,Highlanders,Reds,36,31,Federico Anselmi,Forsyth Barr Stadium,6,8,0,0,0,0
+44,Round 16,Sharks,Hurricanes,17,30,Nic Berry,Jonsson Kings Park,9,8,0,1,0,0
+45,Round 13,Chiefs,Sharks,29,23,Nic Berry,FMG Stadium Waikato,8,6,0,0,1,0
+46,Round 14,Hurricanes,Jaguares,20,28,Brendon Pickerill,Westpac Stadium,7,13,0,0,1,0
+47,Round 10,Stormers,Brumbies,17,19,Nick Briant,DHL Newlands,8,12,0,0,0,1
+48,Round 2,Sharks,Blues,26,7,Paul Williams,Jonsson Kings Park,11,9,0,0,1,0
+49,Round 10,Highlanders,Blues,24,12,Paul Williams,Forsyth Barr Stadium,7,8,0,0,0,0
+50,Round 12,Crusaders,Sharks,21,21,Brendon Pickerill,Christchurch Stadium,13,10,0,0,0,0
+51,Round 6,Reds,Brumbies,36,14,Paul Williams,Suncorp Stadium,10,7,0,0,0,0
+52,Round 2,Stormers,Lions,19,17,Egon Seconds,DHL Newlands,13,15,0,0,1,1
+53,Round 7,Blues,Stormers,24,9,Nick Briant,Eden Park,12,7,1,0,0,0
+54,Round 7,Jaguares,Chiefs,27,30,Angus Gardner,Estadio Jose Amalfitani,9,10,0,0,1,0
+55,Round 9,Sharks,Jaguares,17,51,Nick Briant,Jonsson Kings Park,11,5,0,0,0,0
+56,Round 4,NSW Waratahs,Reds,28,17,Glen Jackson,Sydney Cricket Ground,14,10,0,0,0,1
+57,Round 3,Sharks,Stormers,11,16,Jaco Peyper,Jonsson Kings Park,12,7,0,0,2,1
+58,Round 5,Stormers,Jaguares,35,8,Jaco Peyper,DHL Newlands,6,9,0,0,0,0
+59,Round 14,Reds,NSW Waratahs,32,40,Ben O'keeffe,Suncorp Stadium,7,3,0,0,0,0
+60,Round 6,Bulls,Chiefs,20,56,AJ Jacobs,Loftus Versfeld,9,4,0,0,0,1
+61,Round 8,Reds,Stormers,24,12,Marius van der westhuizen,Suncorp Stadium,8,11,0,0,0,1
+62,Round 13,Brumbies,Sunwolves,33,0,Damon Murphy,GIO Stadium,8,10,0,0,0,0
+63,Round 12,Bulls,NSW Waratahs,28,21,Jaco Peyper,Loftus Versfeld,6,11,0,0,0,0
+64,Round 6,Sharks,Rebels,28,14,Rasta Rasivhenge,Jonsson Kings Park,7,11,0,0,1,0
+65,Round 13,Lions,NSW Waratahs,29,28,Egon Seconds,Emirates Airlines Park,2,11,0,0,0,0
+66,Round 9,Chiefs,Blues,33,29,Angus Gardner,FMG Stadium Waikato,8,7,0,0,0,0
+67,Round 15,Crusaders,Blues,19,11,Michael Fraser,Christchurch Stadium,8,12,0,0,0,0
+68,Round 17,Stormers,Sunwolves,31,18,AJ Jacobs,DHL Newlands,3,12,0,0,0,0
+69,Round 18,Brumbies,Reds,40,27,Paul Williams,GIO Stadium,11,9,0,0,0,2
+70,Round 11,Hurricanes,Chiefs,47,19,Rasta Rasivhenge,Westpac Stadium,6,4,0,0,0,0
+71,Round 9,Brumbies,Lions,31,20,Rasta Rasivhenge,GIO Stadium,12,7,0,0,1,0
+72,Round 17,Reds,Blues,29,28,Brendon Pickerill,Suncorp Stadium,7,16,0,0,0,1
+73,Quarter Final,Crusaders,Highlanders, , ,None,None,None,None,None,None,None,None
+74,Round 13,Highlanders,Jaguares,32,27,Ben O'keeffe,Forsyth Barr Stadium,7,11,0,0,0,0
+75,Round 5,Chiefs,Hurricanes,23,23,Michael Fraser,FMG Stadium Waikato,7,6,0,0,0,0
+76,Round 6,Sunwolves,Lions,24,37,Damon Murphy,Singapore National Stadium,12,6,0,0,0,1
+77,Round 13,Blues,Hurricanes,12,22,Nick Briant,Eden Park,10,16,0,0,0,1
+78,Round 10,Sharks,Reds,14,21,Federico Anselmi,Jonsson Kings Park,7,8,0,0,0,0
+79,Round 6,Blues,Highlanders,33,26,Marius van der westhuizen,Eden Park,10,7,0,0,0,1
+80,Round 14,Stormers,Crusaders,19,19,Nic Berry,DHL Newlands,8,13,0,0,0,0
+81,Round 2,Sunwolves,NSW Waratahs,30,31,AJ Jacobs,Prince Chichibu Memorial Stadium,9,8,0,0,1,0
+82,Round 17,Jaguares,Sharks,34,7,Nick Briant,Estadio Jose Amalfitani,11,11,0,0,0,0
+83,Round 16,Blues,Bulls,22,22,Michael Fraser,Eden Park,6,9,0,0,0,0
+84,Round 1 ,Blues,Crusaders,22,24,Nick Briant,Eden Park,11,13,0,0,1,1
+85,Round 8,Lions,Sharks,5,42,Michael Fraser,Emirates Airlines Park,11,5,0,0,1,0
+86,Round 1 ,Sunwolves,Sharks,10,45,Nic Berry,Singapore National Stadium,16,7,0,0,1,0
+87,Round 8,Bulls,Jaguares,20,22,Brendon Pickerill,Loftus Versfeld,9,15,0,0,2,1
+88,Round 9,Crusaders,Highlanders,43,17,Ben O'keeffe,Christchurch Stadium,18,6,0,0,1,0
+89,Round 3,Reds,Crusaders,12,22,Marius van der westhuizen,Suncorp Stadium,9,7,0,0,1,0
+90,Round 16,Sunwolves,Brumbies,19,42,Federico Anselmi,Prince Chichibu Memorial Stadium,12,9,0,0,0,0
+91,Quarter Final,Jaguares,Chiefs, , ,None,None,None,None,None,None,None,None
+92,Round 8,Blues,NSW Waratahs,32,29,Federico Anselmi,Eden Park,7,7,0,0,0,0
+93,Round 17,Crusaders,Rebels,66,0,Glen Jackson,Christchurch Stadium,5,7,0,0,0,0
+94,Round 2,Jaguares,Bulls,27,12,Brendon Pickerill,Estadio Jose Amalfitani,12,10,0,0,0,0
+95,Round 14,Lions,Highlanders,38,29,Rasta Rasivhenge,Emirates Airlines Park,3,12,0,0,0,0
+96,Round 3,Jaguares,Blues,23,19,Rasta Rasivhenge,Estadio Jose Amalfitani,10,7,0,0,1,0
+97,Round 18,Bulls,Lions,48,27,Marius van der westhuizen,Loftus Versfeld,13,8,0,0,1,0
+98,Round 2,Brumbies,Chiefs,54,17,Angus Gardner,GIO Stadium,10,8,0,0,0,0
+99,Round 6,NSW Waratahs,Crusaders,20,12,Jaco Peyper,Sydney Cricket Ground,3,6,0,0,0,0
+100,Round 1 ,Brumbies,Rebels,27,34,Ben O'keeffe,GIO Stadium,6,11,0,0,0,0
+101,Round 13,Bulls,Crusaders,13,45,Rasta Rasivhenge,Loftus Versfeld,4,12,0,0,0,0
+102,Round 14,Rebels,Bulls,17,32,Federico Anselmi,AAMI Park,7,11,0,0,0,0
+103,Round 5,Brumbies,NSW Waratahs,19,13,Glen Jackson,GIO Stadium,9,10,0,0,0,2
+104,Round 2,Crusaders,Hurricanes,38,22,Ben O'keeffe,Christchurch Stadium,13,13,0,0,1,0
+105,Round 4,Blues,Sunwolves,28,20,Michael Fraser,QBE Stadium,3,15,0,0,0,2
+106,Round 8,Highlanders,Hurricanes,28,31,Glen Jackson,Forsyth Barr Stadium,6,11,0,0,0,1
+107,Round 7,Reds,Rebels,13,32,AJ Jacobs,Suncorp Stadium,8,8,0,0,0,0
+108,Quarter Final,Hurricanes,Bulls, , ,None,None,None,None,None,None,None,None
+109,Round 10,Chiefs,Lions,17,23,Brendon Pickerill,FMG Stadium Waikato,8,6,0,0,0,0
+110,Round 10,NSW Waratahs,Rebels,23,20,Damon Murphy,Sydney Cricket Ground,8,12,0,0,0,1
+111,Round 12,Jaguares,Stormers,30,25,AJ Jacobs,Estadio Jose Amalfitani,14,8,0,0,1,1
+112,Round 5,Sunwolves,Reds,31,34,Damon Murphy,Prince Chichibu Memorial Stadium,11,4,0,0,0,0
+113,Round 8,Crusaders,Brumbies,36,14,Jaco Peyper,Christchurch Stadium,9,9,0,0,1,2
+114,Round 1 ,Bulls,Stormers,40,3,Jaco Peyper,Loftus Versfeld,12,8,0,0,0,0
+115,Round 11,Stormers,Bulls,24,23,Glen Jackson,DHL Newlands,9,5,0,0,0,0
+116,Round 16,Chiefs,Crusaders,40,27,Ben O'keeffe,"ANZ National Stadium, Suva",6,3,0,0,0,0
+117,Round 15,Stormers,Highlanders,34,22,Nic Berry,DHL Newlands,7,7,0,0,0,1
+118,Round 7,Hurricanes,Crusaders,8,32,Ben O'keeffe,Westpac Stadium,8,14,0,0,0,1
 119,Round 3,Rebels,Highlanders,24,19,AJ Jacobs,AAMI Park,10,8,0,0,0,0
+120,Round 11,Jaguares,Brumbies,20,15,Marius van der westhuizen,Estadio Jose Amalfitani,12,6,0,0,1,0
+121,Round 18,Stormers,Sharks,9,12,AJ Jacobs,DHL Newlands,5,9,0,0,1,0
+122,Quarter Final,Brumbies,Sharks, , ,None,None,None,None,None,None,None,None
+123,Round 6,Hurricanes,Stormers,34,28,Glen Jackson,Westpac Stadium,11,7,0,0,1,1
